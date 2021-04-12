@@ -32,7 +32,7 @@ These personalizations sufficiently provided the results/behavior that I inteded
 - Recommended browser: Chrome
 
 ### Feedback
-It took quite long for me to figure out how frontend works as someone who has never done any frontend work.
+It took quite long for me to figure out how frontend works as someone who has never done any frontend work. Great learning experience
 
 
 
