@@ -10,10 +10,15 @@ Integrate Algolia to my project, set up configurations such that searching, filt
 
 ### What the users should be able to do / what I intend to accomplish
 Searching: Users should be able to search by name of wine, type of wine, year, and domain (wine region).
+
 Filtering: Users should be able to filter by the type of wine (red/white), year, price range, and wine quality (0-100) using the sliding bar. This also includes setting up these attributes for Faceting.
+
 Ranking/Sorting: the default ranking rules provided satisfactory results without further configuration, but I added a custom ranking by quality where I display the best quality wines first for the customer.
+
 Personalization Enabled.
+
 Added French to the language since these are all wines from Bordeaux, France and all the names are in French.
+
 These personalizations sufficiently provided the results/behavior that I inteded, I left the rest to default. 
 
 
