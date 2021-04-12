@@ -7,10 +7,6 @@ body { font-family: sans-serif; padding: 1em; }
     flex-direction: column;
 }
 
-/* #header > .ais-SearchBox {
-   
-} */
-
 #content-body {
     display: flex;
     flex: 1;
