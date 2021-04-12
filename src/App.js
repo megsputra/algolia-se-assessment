@@ -13,7 +13,7 @@ import {
 } from 'react-instantsearch-dom';
 import PropTypes from 'prop-types';
 import './App.css';
-import PrimarySearchAppBar from './components/search.js'
+// import PrimarySearchAppBar from './components/search.js'
 import { Slider } from '@material-ui/core'
 
 const searchClient = algoliasearch(
