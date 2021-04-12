@@ -7,20 +7,22 @@ Cheers, George
 
 Hello George,
 
-Thank you for reaching out to us! My name is Mega, as a Solutions Engineer. First of all I’d like to welcome you to Algolia and thank you so much for choosing us as a solution to all of your search engine needs! We have onboarded many clients who are new to search engines and we will be with you every step of the way. 
+Thank you for reaching out to us! My name is Mega, a Solutions Engineer here at Algolia. First of all I’d like to welcome you to Algolia and thank you so much for choosing us as a solution to all of your search engine needs! We have onboarded many clients who are new to search engines and we will be with you every step of the way. 
 
-I am happy to be a technical resource and answer your questions below. Also, I would like to understand your overall objective and what you are trying to achieve so that I can provide better context for your answers and how Algolia can help.
+I am happy to be your technical resource and answer your questions below. Also, I would like to understand your overall objective and what you are trying to achieve so that I can provide better context for your answers and how Algolia can help.
 
 	⁃	An index is the place where the data used by a search engine is stored. It is the equivalent for search of what a “table” is for a database. Unlike a database table, an index is optimized for search operations.
 	⁃	A record is our way to describe a single object. For example, if you have a database of clothes that you sell on your website, one single unique piece of clothing is referred to as a record. We also refer the search results as records.
 	
-The metrics that would be useful depends on your business. Let’s say a user searches for “Popular Restaurants” you might want to rank it based on its number of reviews and ratings to provide relevant results.
+The metrics that would be useful depends on your business. Let’s say a user searches for “Popular Restaurants” you might want to rank it based on its populatiry; attributes such as number of reviews and ratings might help provide relevant results.
 You can refer to this link for more information about Custom Ranking: https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/
 
 I am here to assist and make your onboarding process smoother. Please do not hesitate to reach out if you have further questions. You can email me or give me a call directly at 123-456-7890. 
 
 Thank you again for your interest in Algolia.
 
+Kind Regards,
+Mega Putra
 
 Question 2: Hello,
 Sorry to give you the kind of feedback that I know you do not want to hear, but I really hate the new dashboard design. Clearing and deleting indexes are now several clicks away. I am needing to use these features while iterating, so this is inconvenient.
@@ -33,11 +35,14 @@ Thank you for reaching out to Algolia! I am sorry that the new dashboard design 
 The new dashboard design is integrated to support our new XYZ feature and speeds up ABC, so that users can create and update indices instantly. We also included an easier way to upload your data and configure all of your settings within one page. We are sorry that it takes several clicks to delete/clear indexes. Please be assured that our development work is prioritized for our clients’ needs and to provide the best user experience.
 
 Here are several ways I find very simple to delete/clear indexes:
-	0.	To clear a single index: click Indices -> Manage Index -> Delete
-	0.	To clear multiple indices:  click Indices -> click the top left Indices -> Select all indices you want to delete -> Delete Indices Note: you can also delete a single index using this method
+	.	To clear a single index: click Indices -> Manage Index -> Delete
+	.	To clear multiple indices:  click Indices -> click the top left Indices -> Select all indices you want to delete -> Delete Indices
+  Note: you can also delete a single index using this method
 
 I hope you found a preferable option for these tasks. Please do not hesitate to reach out if you have further concerns or feedback regarding our product.
 
+Kind Regards,
+Mega Putra
 
 Question 3: Hi,
 I'm looking to integrate Algolia in my website. Will this be a lot of development work for me? What's the high level process look like?
@@ -48,9 +53,9 @@ Hi Leo,
 Thank you for reaching out and your interest in Algolia! My name is Mega, as a Solutions Engineer I am happy to be your technical resource and answer these questions. 
 
 The high level process to integrate Algolia can be broken into 3 steps:
-	0.	Indexing your data into Algolia
-	0.	Configuring relevance and ranking settings
-	0.	Building a search user interface
+	.	Indexing your data into Algolia
+	.	Configuring relevance and ranking settings
+	.	Building a search user interface
 
 To speed things up, we have comprehensive UI/UX libraries called InstantSearch that offers a full set of UI components that you can use on your website. In minutes, you get a fully-functional and customizable search UI.
 
@@ -60,6 +65,8 @@ Please let me know if you need any assistance in integrating Algolia to your web
 
 Thank you again for your interest in Algolia.
 
+Kind Regards,
+Mega Putra
 
 
 
